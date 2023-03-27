@@ -6,6 +6,7 @@ import Shop from './components/Shop/Shop'
 function App() {
   
 
+
   return (
     <div className="App">
       <Header></Header>
