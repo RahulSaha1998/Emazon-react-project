@@ -79,6 +79,7 @@ const Orders = () => {
                     <Link className='proceed-link' to="/checkout">
                         <button className='btn-proceed'>Proceed Checkout</button>
                     </Link>
+
                 </Cart>
             </div>
         </div>
